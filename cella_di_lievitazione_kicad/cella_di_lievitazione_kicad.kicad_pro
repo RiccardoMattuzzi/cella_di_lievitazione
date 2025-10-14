@@ -416,6 +416,18 @@
     [
       "76ff6b6e-a26f-49a7-b408-967664007d9c",
       "Heater"
+    ],
+    [
+      "a030506c-e8d5-4e6e-a755-dfb11b4d7fbb",
+      "uC"
+    ],
+    [
+      "d3314f14-9db7-4b38-89fe-731a79291bc5",
+      "Alimentazione"
+    ],
+    [
+      "1e160bc2-0ac0-4c06-be5e-65aab89be4f8",
+      "LED per debug"
     ]
   ],
   "text_variables": {}
