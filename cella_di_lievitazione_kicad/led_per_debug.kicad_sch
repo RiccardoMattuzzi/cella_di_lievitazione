@@ -1070,7 +1070,7 @@
 			)
 			(justify left)
 		)
-		(uuid "35577572-88c2-4124-b87e-727b0a82e2d5")
+		(uuid "35577572-88c2-4124-b87e-727b0a82e2d6")
 	)
 	(hierarchical_label "alimentazione5"
 		(shape input)
@@ -1081,7 +1081,7 @@
 			)
 			(justify left)
 		)
-		(uuid "35577572-88c2-4124-b87e-727b0a82e2d5")
+		(uuid "35577572-88c2-4124-b87e-727b0a82e2d7")
 	)
 	(hierarchical_label "alimentazione2"
 		(shape input)
@@ -1092,7 +1092,7 @@
 			)
 			(justify left)
 		)
-		(uuid "35577572-88c2-4124-b87e-727b0a82e2d5")
+		(uuid "35577572-88c2-4124-b87e-727b0a82e2d8")
 	)
 	(hierarchical_label "alimentazione1"
 		(shape input)
@@ -1103,7 +1103,7 @@
 			)
 			(justify left)
 		)
-		(uuid "35577572-88c2-4124-b87e-727b0a82e2d5")
+		(uuid "35577572-88c2-4124-b87e-727b0a82e2d9")
 	)
 	(hierarchical_label "V_alim_LED"
 		(shape input)

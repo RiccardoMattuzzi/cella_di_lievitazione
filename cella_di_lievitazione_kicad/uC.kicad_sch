@@ -1938,7 +1938,7 @@
 			)
 			(justify left)
 		)
-		(uuid "701c4b7e-2935-4e15-9932-015d79bd61a0")
+		(uuid "701c4b7e-2935-4e15-9932-015d79bd61a1")
 	)
 	(hierarchical_label "V_heater_N"
 		(shape passive)
@@ -1960,7 +1960,7 @@
 			)
 			(justify left)
 		)
-		(uuid "c558f1b3-36e4-4a48-ad0f-216f36569537")
+		(uuid "c558f1b3-36e4-4a48-ad0f-216f36569538")
 	)
 	(symbol
 		(lib_id "Device:Thermocouple")
@@ -2318,10 +2318,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "597244f0-e102-4c2c-99e9-d343a1a53bae")
+			(uuid "597244f0-e102-4c2c-99e9-d343a1a53baf")
 		)
 		(pin "2"
-			(uuid "7de64a58-3a5a-45fa-880a-8bf84f6b8b2d")
+			(uuid "7de64a58-3a5a-45fa-880a-8bf84f6b8b2e")
 		)
 		(instances
 			(project ""
